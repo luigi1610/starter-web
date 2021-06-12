@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Luigi Di mauro l.dimauro@mammt.com
 
 # THANKS
 
