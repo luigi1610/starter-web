@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-Sample website with plenty of files for demos. UGUALE!!! SEMPRE UGUALE!!!
+Sample website with plenty of files for demos. mammr
 
 ## Purpose
 
